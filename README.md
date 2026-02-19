@@ -2,6 +2,9 @@
 
 a visual pipeline builder where you drag nodes, connect them, and the backend tells you if it's a valid dag. built with react + reactflow on the frontend and python on the backend, deployed as a single vercel project.
 
+## video summary
+[![summary](https://img.youtube.com/vi/UIZ3XrQk-OE/0.jpg)](https://www.youtube.com/watch?v=UIZ3XrQk-OE)
+
 ## how to run locally
 
 **frontend:**
